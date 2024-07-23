@@ -1,2 +1,3 @@
 # zset-lang
-Z-Set lang is a language for resolve congruent equation
+Z-Set lang is a mathematic processor language for resolve congruent equations.
+
